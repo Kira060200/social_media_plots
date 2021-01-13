@@ -10,6 +10,8 @@ Date,Reddit,Wapp,Fb,Chrome
 
 10-01-2021,20,19,6,6
 
+11-01-2021,38,79,5,9
+
 
 Right now, it only supports this apps. The time is in minutes
 
