@@ -13,7 +13,7 @@ Date,Reddit,Wapp,Fb,Chrome
 11-01-2021,38,79,5,9
 
 
-Right now, it only supports this apps. The time is in minutes
+Right now, it only supports this apps, but modifying the script should be no challenge. The time is in minutes
 
 ### Plots
 Some of the plots I generated, you can find more plots in their special folder
