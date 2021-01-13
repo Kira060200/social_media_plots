@@ -7,6 +7,7 @@ It's nothing big, I just made it to help me realize how much time I was wasting 
 ### CSV file format example
 
 Date,Reddit,Wapp,Fb,Chrome
+
 10-01-2021,20,19,6,6
 
 
