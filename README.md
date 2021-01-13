@@ -1,6 +1,6 @@
 # Social media plots generator
 
-**social_media_plots** is a simple repo that contains a bunch of scripts that generate plots based on your csv file with you time in different apps.
+**social_media_plots** is a simple repo that contains a bunch of scripts that generate plots based on your csv file with your time spent in different apps.
 
 It's nothing big, I just made it to help me realize how much time I was wasting in this apps and decided to share the scripts
 
