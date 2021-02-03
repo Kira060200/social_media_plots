@@ -2,7 +2,8 @@
 
 **social_media_plots** is a simple repo that contains a bunch of scripts that generate plots based on your csv file with your time spent in different apps.
 
-It's nothing big, I just made it to help me realize how much time I was wasting in this apps and decided to share the scripts
+It's nothing big, I just made it to help me realize how much time I was wasting in this apps and decided to share the scripts.
+You can set the target time and see the relationship between the target and the actual median of you wasted time.
 
 ### CSV file format example
 
