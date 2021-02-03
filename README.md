@@ -21,6 +21,7 @@ Some of the plots I generated, you can find more plots in their special folder
 
 [![screenshot](https://github.com/Kira060200/social_media_plots/blob/main/plots/cal_heatmap.png)](https://github.com/Kira060200/social_media_plots/blob/main/plots/cal_heatmap.png)
 [![screenshot](https://github.com/Kira060200/social_media_plots/blob/main/plots/total_wasted_time.png)](https://github.com/Kira060200/social_media_plots/blob/main/plots/total_wasted_time.png)
+[![screenshot](https://github.com/Kira060200/social_media_plots/blob/main/plots/wasted_time.png)](https://github.com/Kira060200/social_media_plots/blob/main/plots/wasted_time.png)
 [![screenshot](https://github.com/Kira060200/social_media_plots/blob/main/plots/average_wasted_time.png)](https://github.com/Kira060200/social_media_plots/blob/main/plots/average_wasted_time.png)
 [![screenshot](https://github.com/Kira060200/social_media_plots/blob/main/plots/Reddit.png)](https://github.com/Kira060200/social_media_plots/blob/main/plots/Reddit.png)
 
